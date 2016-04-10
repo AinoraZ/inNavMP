@@ -1,0 +1,16 @@
+{
+	"Points" : 
+	[
+		{
+			"position" : [1,2],
+			"pointName" : "205 kabinetas",
+			"teacher" : "Zarskiene",
+			"lessons" : ["lietuviu"],
+			"savDienos" : [1,2,3],
+			"floor" : 2
+		},
+		{
+
+		}
+	]
+}
